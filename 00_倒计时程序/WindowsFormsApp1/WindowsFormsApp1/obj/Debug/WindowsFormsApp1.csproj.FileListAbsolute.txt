@@ -1,0 +1,9 @@
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\code\C#\上位机杜洋\00_倒计时程序\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
