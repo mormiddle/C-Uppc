@@ -1,0 +1,9 @@
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.AssemblyReference.cache
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.cache
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.CoreCompileInputs.cache
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+E:\code\C#\上位机杜洋\01_串口发送数据\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
